@@ -2,9 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ae627ae-9001-4328-b487-087c36379cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server-cluster-container-install.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/all_in_one_install/default.config.ans" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/all_in_one_install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/cluter-install/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cluter-install/README.md" afterPath="$PROJECT_DIR$/all_in_one_install/README.md" />
+      <change beforePath="$PROJECT_DIR$/cluter-install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/cluter-install/install.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cluter-install/install.sh" afterPath="$PROJECT_DIR$/all_in_one_install/install.sh" />
+      <change beforePath="$PROJECT_DIR$/cluter-install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/Dockerfile" afterPath="$PROJECT_DIR$/cluster/batch/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/batch_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/batch_settings.sh" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/batch_settings.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/Dockerfile" afterPath="$PROJECT_DIR$/cluster/dwh/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/dwh/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/dwh_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/dwh_settings.sh" afterPath="$PROJECT_DIR$/cluster/dwh/docker/install/dwh_settings.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/dwh/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/Dockerfile" afterPath="$PROJECT_DIR$/cluster/fe/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/fe/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/fe_db_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/fe_db_settings.sh" afterPath="$PROJECT_DIR$/cluster/fe/docker/install/fe_db_settings.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/fe_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/fe_settings.sh" afterPath="$PROJECT_DIR$/cluster/fe/docker/install/fe_settings.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/fe/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/Dockerfile" afterPath="$PROJECT_DIR$/cluster/fe_additional/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/fe_additional/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/fe_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/fe_settings.sh" afterPath="$PROJECT_DIR$/cluster/fe_additional/docker/install/fe_settings.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/fe_additional/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/Dockerfile" afterPath="$PROJECT_DIR$/cluster/mysql/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/mysql/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/mysql/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/mysql_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/mysql_settings.sh" afterPath="$PROJECT_DIR$/cluster/mysql/docker/install/mysql_settings.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/Dockerfile" afterPath="$PROJECT_DIR$/cluster/nfs/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/nfs/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/nfs/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/nfs_run.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/nfs_run.sh" afterPath="$PROJECT_DIR$/cluster/nfs/docker/install/nfs_run.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/nfs_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/nfs_settings.sh" afterPath="$PROJECT_DIR$/cluster/nfs/docker/install/nfs_settings.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/Dockerfile" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/nginx/nginx.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/nginx/nginx.conf" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/docker/nginx/nginx.conf" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/Dockerfile" afterPath="$PROJECT_DIR$/cluster/nginx_vod/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/nginx_vod/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/nginx_vod/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/nginx_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/nginx_settings.sh" afterPath="$PROJECT_DIR$/cluster/nginx_vod/docker/install/nginx_settings.sh" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/Dockerfile" afterPath="$PROJECT_DIR$/cluster/sphinx/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/default.config.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/sphinx/docker/install/default.config.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/kaltura.template.ans" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/sphinx/docker/install/kaltura.template.ans" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/sphinx_settings.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/sphinx_settings.sh" afterPath="$PROJECT_DIR$/cluster/sphinx/docker/install/sphinx_settings.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,22 +108,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/klatura_docker_cluster/fe/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="34">
                 <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/dwh/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.config.ans" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/dwh/docker/install/default.config.ans">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.config.ans" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all_in_one_install/default.config.ans">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="install.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all_in_one_install/install.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/all_in_one_install/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -60,21 +184,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cluter-install/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="fe_settings.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/fe_additional/docker/install/fe_settings.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kaltura.template.ans" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cluter-install/kaltura.template.ans">
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -83,28 +204,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="install.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cluter-install/install.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.config.ans" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cluter-install/default.config.ans">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/klatura_docker_cluster/dwh/Dockerfile">
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -121,6 +222,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cluter-install/README.md" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -165,39 +273,6 @@
             <path>
               <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
               <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
-              <item name="cluter-install" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
-              <item name="document" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
-              <item name="klatura_docker_cluster" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
-              <item name="klatura_docker_cluster" type="462c0819:PsiDirectoryNode" />
-              <item name="dwh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
-              <item name="klatura_docker_cluster" type="462c0819:PsiDirectoryNode" />
-              <item name="fe_additional" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
-              <item name="klatura_docker_cluster" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,18 +345,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -322,6 +385,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -344,7 +419,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446000" />
+    <option name="totallyTimeSpent" value="951000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +432,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
@@ -371,7 +445,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18336888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18336888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -382,10 +456,32 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18336888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,10 +499,93 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/klatura_docker_cluster/fe/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/cluster/fe/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_in_one_install/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_in_one_install/kaltura.template.ans">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_in_one_install/install.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_in_one_install/default.config.ans">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-cluster-container-install.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe_additional/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe_additional/docker/install/default.config.ans">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe_additional/docker/install/fe_settings.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -422,7 +601,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/klatura_docker_cluster/dwh/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/cluster/dwh/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/dwh/docker/install/dwh_settings.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/dwh/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -438,38 +651,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluter-install/README.md">
+    <entry file="file://$PROJECT_DIR$/all_in_one_install/kaltura.template.ans">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/dwh/docker/install/default.config.ans">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_in_one_install/default.config.ans">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_in_one_install/install.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_in_one_install/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluter-install/kaltura.template.ans">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluter-install/install.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluter-install/default.config.ans">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
