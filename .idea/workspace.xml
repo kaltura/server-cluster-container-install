@@ -2,90 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ae627ae-9001-4328-b487-087c36379cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/all_in_one_install/default.config.ans" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/all_in_one_install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/cluter-install/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cluter-install/README.md" afterPath="$PROJECT_DIR$/all_in_one_install/README.md" />
-      <change beforePath="$PROJECT_DIR$/cluter-install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/cluter-install/install.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cluter-install/install.sh" afterPath="$PROJECT_DIR$/all_in_one_install/install.sh" />
-      <change beforePath="$PROJECT_DIR$/cluter-install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/Dockerfile" afterPath="$PROJECT_DIR$/cluster/batch/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/batch_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/batch_settings.sh" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/batch_settings.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/batch/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/batch/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/Dockerfile" afterPath="$PROJECT_DIR$/cluster/dwh/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/dwh/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/dwh_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/dwh_settings.sh" afterPath="$PROJECT_DIR$/cluster/dwh/docker/install/dwh_settings.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/dwh/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/dwh/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/Dockerfile" afterPath="$PROJECT_DIR$/cluster/fe/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/fe/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/fe_db_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/fe_db_settings.sh" afterPath="$PROJECT_DIR$/cluster/fe/docker/install/fe_db_settings.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/fe_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/fe_settings.sh" afterPath="$PROJECT_DIR$/cluster/fe/docker/install/fe_settings.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/fe/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/Dockerfile" afterPath="$PROJECT_DIR$/cluster/fe_additional/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/fe_additional/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/fe_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/fe_settings.sh" afterPath="$PROJECT_DIR$/cluster/fe_additional/docker/install/fe_settings.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/fe_additional/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/fe_additional/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/Dockerfile" afterPath="$PROJECT_DIR$/cluster/mysql/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/mysql/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/mysql/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/mysql_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/mysql/docker/install/mysql_settings.sh" afterPath="$PROJECT_DIR$/cluster/mysql/docker/install/mysql_settings.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/Dockerfile" afterPath="$PROJECT_DIR$/cluster/nfs/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/nfs/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/nfs/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/nfs_run.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/nfs_run.sh" afterPath="$PROJECT_DIR$/cluster/nfs/docker/install/nfs_run.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/nfs_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nfs/docker/install/nfs_settings.sh" afterPath="$PROJECT_DIR$/cluster/nfs/docker/install/nfs_settings.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/Dockerfile" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/nginx/nginx.conf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_load_balancer/docker/nginx/nginx.conf" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/docker/nginx/nginx.conf" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/Dockerfile" afterPath="$PROJECT_DIR$/cluster/nginx_vod/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/nginx_vod/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/nginx_vod/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/nginx_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/nginx_vod/docker/install/nginx_settings.sh" afterPath="$PROJECT_DIR$/cluster/nginx_vod/docker/install/nginx_settings.sh" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/Dockerfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/Dockerfile" afterPath="$PROJECT_DIR$/cluster/sphinx/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/default.config.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/default.config.ans" afterPath="$PROJECT_DIR$/cluster/sphinx/docker/install/default.config.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/kaltura.template.ans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/kaltura.template.ans" afterPath="$PROJECT_DIR$/cluster/sphinx/docker/install/kaltura.template.ans" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/sphinx_settings.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/klatura_docker_cluster/sphinx/docker/install/sphinx_settings.sh" afterPath="$PROJECT_DIR$/cluster/sphinx/docker/install/sphinx_settings.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/batch/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/dwh/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/fe/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/fe_additional/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/mysql/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/nfs/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/nginx_load_balancer/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/nginx_vod/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cluster/sphinx/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/all_in_one_install/install.sh" afterPath="$PROJECT_DIR$/all_in_one_install/install.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,11 +36,115 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/cluster/batch/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="78" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/fe/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="374">
+                <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cluster/sphinx/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/mysql/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="34">
-                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <caret line="2" column="72" lean-forward="false" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/nginx_vod/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/nfs/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/nginx_load_balancer/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/dwh/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster/fe_additional/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="21" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -122,99 +153,25 @@
         </entry>
       </file>
       <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cluster/dwh/Dockerfile">
+        <entry file="file://$PROJECT_DIR$/cluster/fe/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.config.ans" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cluster/dwh/docker/install/default.config.ans">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.config.ans" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/all_in_one_install/default.config.ans">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="install.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/all_in_one_install/install.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/all_in_one_install/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server-cluster-container-install.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-cluster-container-install.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fe_settings.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cluster/fe_additional/docker/install/fe_settings.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="372">
+              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&gt;</find>
+      <find>&lt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -228,6 +185,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cluter-install/README.md" />
+        <option value="$PROJECT_DIR$/cluster/mysql/README.md" />
+        <option value="$PROJECT_DIR$/all_in_one_install/install.sh" />
+        <option value="$PROJECT_DIR$/cluster/dwh/README.md" />
+        <option value="$PROJECT_DIR$/cluster/batch/README.md" />
+        <option value="$PROJECT_DIR$/cluster/fe_additional/README.md" />
+        <option value="$PROJECT_DIR$/cluster/fe/README.md" />
+        <option value="$PROJECT_DIR$/cluster/nfs/README.md" />
+        <option value="$PROJECT_DIR$/cluster/nginx_load_balancer/README.md" />
+        <option value="$PROJECT_DIR$/cluster/nginx_vod/README.md" />
+        <option value="$PROJECT_DIR$/cluster/sphinx/README.md" />
       </list>
     </option>
   </component>
@@ -243,9 +210,12 @@
       <select />
     </treeState>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -274,6 +244,70 @@
               <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
               <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="all_in_one_install" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="batch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="dwh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="fe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="fe_additional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="nfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx_load_balancer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx_vod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server-cluster-container-install" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-cluster-container-install" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="sphinx" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -290,6 +324,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\branches\server-cluster-container-install\cluster\sphinx" />
+      <recent name="C:\branches\server-cluster-container-install\cluster\nginx_vod" />
+      <recent name="C:\branches\server-cluster-container-install\cluster\nginx_load_balancer" />
+      <recent name="C:\branches\server-cluster-container-install\cluster\nfs" />
+      <recent name="C:\branches\server-cluster-container-install\cluster\mysql" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -419,7 +462,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="951000" />
+    <option name="totallyTimeSpent" value="5048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -431,21 +474,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33779263" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33779263" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18336888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18336888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -550,14 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/fe_additional/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cluster/fe_additional/docker/install/default.config.ans">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -617,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/fe/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -632,14 +661,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/dwh/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,6 +688,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe_additional/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/all_in_one_install/default.config.ans">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -677,8 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/all_in_one_install/install.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -688,6 +717,145 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="255">
             <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/nfs/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/dwh/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe/docker/install/kaltura.template.ans">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe/docker/install/fe_settings.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe_additional/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="21" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/dwh/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/nginx_load_balancer/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/nfs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/mysql/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="72" lean-forward="false" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/nginx_vod/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/fe/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/batch/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="78" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/sphinx/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor />
