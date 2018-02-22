@@ -1,4 +1,4 @@
-#!/bin/bash - 
+#!/bin/bash
 #===============================================================================
 #          FILE: kaltura-mysql-settings.sh
 #         USAGE: ./kaltura-mysql-settings.sh 
