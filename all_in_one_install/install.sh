@@ -47,6 +47,11 @@ docker run -d --storage-opt size=120G --net=bridge --privileged --name kaltura-n
 docker run --name mysql -d -h docker-mysql-host roiebeck/server-cluster-container-install-mysql
 
 ##
+## open the mysql remote connection option
+##
+docker exec -itd mysql mysql -u root -proot
+
+##
 ## run sphinx container
 ##
 docker run -d --name sphinx --link mysql -h docker-sphinx1-host  roiebeck/server-cluster-container-install-sphinx
@@ -110,12 +115,12 @@ docker exec -it batchsecondnode /root/install/batch_settings.sh
 ##
 ## run NGINX vod packager configuration
 ##
-docker run --name nginx_vod -h docker-packager -p 88:88 -d --link docker-lb --link mysql --link sphinx --link kaltura-nfs --privileged docker pull roiebeck/server-cluster-container-install-nginx_vod
+docker run --name nginx_vod -h docker-packager -p 88:88 -d --link docker-lb --link mysql --link sphinx --link kaltura-nfs --privileged roiebeck/server-cluster-container-install-nginx_vod
 
 ##
 ## execute configuration on node
 ##
-docker exec -it  nginx_vod /root/install/nginx_settings.sh
+docker exec -it nginx_vod /root/install/nginx_settings.sh
 
 ##
 ## run the DWH

@@ -47,10 +47,20 @@ if ! [ -e /root/install/installed.ans ]; then
     ## the FE api needs to be local
     ##
     echo "127.0.0.1       " $CDN_HOST  >> /etc/hosts
+    yum install -y kaltura-front kaltura-widgets kaltura-html5lib kaltura-html5-studio kaltura-clipapp rsync
+    ##
+    ## Bug in NFS  https://forum.kaltura.org/t/nfs-mount-centos7/6901/3
+    ##
+    mkdir -p /tmp/opt/kaltura/web
+    rsync -a /opt/kaltura/web /tmp/opt/kaltura/web
+
 	echo "running /opt/kaltura/bin/kaltura-nfs-client-config.sh" $NFS_NAME $NFS_DOMAIN_NAME $NFS_USER $NFS_GROUP
 	/opt/kaltura/bin/kaltura-nfs-client-config.sh $NFS_NAME $NFS_DOMAIN_NAME $NFS_USER $NFS_GROUP
 	echo "done configuring nfs"
-	yum install -y kaltura-front kaltura-widgets kaltura-html5lib kaltura-html5-studio kaltura-clipapp
+    ##
+    ## now re-sync with mount nfs
+    ##
+	rsync -a /tmp/opt/kaltura/web /opt/kaltura/web
 	if [ $# -eq 0 ]; then
 	  /opt/kaltura/bin/kaltura-front-config.sh /root/install/default.config.ans
 	else
