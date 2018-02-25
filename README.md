@@ -2,8 +2,6 @@
 This repository contains docker files and scripts to be used for installing Kaltura server as clustered enviroment 
 
 
-
-
 #Deploying Kaltura Clusters Using docker containers
 
 Below are instructions for deploying Kaltura Clusters using docker we used centos 6(RPM) as OS but could be changed in the future.
@@ -48,7 +46,9 @@ Combined with the Kaltura docker installation instruction:
     
     	-it  interactive mode allows you to see output of command
     	 
-	Example: running  ‘docker exec -it mysql bash‘  will get you into the container bash 
+	Example: running  ‘docker exec -it mysql bash‘  will get you into the container bash
+
+ 
 # Pre-installation requirements 
 Installed Docker Engine on a valid host(atomic-OS is recommended )
 •	https://www.projectatomic.io/
@@ -57,6 +57,40 @@ Installed Docker Engine on a valid host(atomic-OS is recommended )
     	rpm-ostree  install vim
     	  
 •	also, there are two version of docker on the atomic, we recommend using the latest, this can be achieved via:
-        
         https://access.redhat.com/articles/2317361
 
+# Docker hub
+
+• In addition we have created build(docker image) in Docker hub for each of the Kaltura components ,
+  please follow the below link for every image(you can review the docker file inside every build)
+• please node that instruction on how to install each component can be found both here in the README.md file under each
+  node(below cluster) and in the docker hub in the links below.
+ 
+  
+### NFS   
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-nfs/ 
+    
+### MySQL
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-mysql/
+   
+### Sphinx   
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-sphinx/
+   
+### Front End First Node
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-front-end-first-node/
+   
+### Front End additional nodes
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-front-end-additional-nodes/
+   
+### Front End Load Balancer(nginx)
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-nginx_load_balancer/
+     
+### Batch nodes
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-batch/
+
+### Nginx VOD
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-nginx_vod/
+
+### DWH(data warehouse node)
+   https://hub.docker.com/r/roiebeck/server-cluster-container-install-dwh/
+    
