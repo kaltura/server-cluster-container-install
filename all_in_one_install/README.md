@@ -20,8 +20,17 @@
 ### Pre-requirement
  
 • root access(sudo) on Host machine
-• file must run from 
 
+• all the files pulled from github, use the following link:
+   https://github.com/kaltura/server-cluster-container-install   
+
+• please make sure the all in one install folder has rw permissions, example :
+
+    example: chmod 755 -R /var/roothome/test/all_in_one_install/
+ 
+• dos2Unix installed on host, please active dos2unix on the document 
+        
+    example: dos2unix /var/roothome/test/all_in_one_install/install.sh  
 
 ### Installation
  
