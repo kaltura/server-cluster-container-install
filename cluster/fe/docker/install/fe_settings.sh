@@ -65,7 +65,7 @@ if ! [ -e /root/install/installed.ans ]; then
 	rm -rf /tmp/opt/kaltura/web
 
 	if [ $# -eq 0 ]; then
-	  /opt/kaltura/bin/kaltura-front-config.sh /root/install/default.config.ans
+		/opt/kaltura/bin/kaltura-front-config.sh /root/install/default.config.ans
 	else
 		/opt/kaltura/bin/kaltura-front-config.sh $1
 	fi
