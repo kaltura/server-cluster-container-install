@@ -57,10 +57,13 @@ if ! [ -e /root/install/installed.ans ]; then
 	echo "running /opt/kaltura/bin/kaltura-nfs-client-config.sh" $NFS_NAME $NFS_DOMAIN_NAME $NFS_USER $NFS_GROUP
 	/opt/kaltura/bin/kaltura-nfs-client-config.sh $NFS_NAME $NFS_DOMAIN_NAME $NFS_USER $NFS_GROUP
 	echo "done configuring nfs"
+
     ##
     ## now re-sync with mount nfs
     ##
 	rsync -a /tmp/opt/kaltura/web /opt/kaltura/web
+	rm -rf /tmp/opt/kaltura/web
+
 	if [ $# -eq 0 ]; then
 	  /opt/kaltura/bin/kaltura-front-config.sh /root/install/default.config.ans
 	else
