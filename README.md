@@ -62,8 +62,9 @@ Installed Docker Engine on a valid host(atomic-OS is recommended )
 # Docker hub
 
 • In addition we have created build(docker image) in Docker hub for each of the Kaltura components ,
-  please follow the below link for every image(you can review the docker file inside every build)
-• please node that instruction on how to install each component can be found both here in the README.md file under each
+  please follow the below link for every image(you can review the docker file inside every build).
+  
+• please note that instruction on how to install each component can be found both here in the README.md file under each
   node(below cluster) and in the docker hub in the links below.
  
   
