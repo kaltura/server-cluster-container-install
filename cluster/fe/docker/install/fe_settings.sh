@@ -52,7 +52,7 @@ if ! [ -e /root/install/installed.ans ]; then
 	## Bug in NFS  https://forum.kaltura.org/t/nfs-mount-centos7/6901/3
 	##
 	mkdir -p /tmp/opt/kaltura/web
-	rsync -a /opt/kaltura/web /tmp/opt/kaltura/web
+	rsync -a /opt/kaltura/web/ /tmp/opt/kaltura/web
 
 	echo "running /opt/kaltura/bin/kaltura-nfs-client-config.sh" $NFS_NAME $NFS_DOMAIN_NAME $NFS_USER $NFS_GROUP
 	/opt/kaltura/bin/kaltura-nfs-client-config.sh $NFS_NAME $NFS_DOMAIN_NAME $NFS_USER $NFS_GROUP
@@ -61,9 +61,10 @@ if ! [ -e /root/install/installed.ans ]; then
 	##
 	## now re-sync with mount nfs
 	##
-	rsync -a /tmp/opt/kaltura/web /opt/kaltura/web
+	rsync -a /tmp/opt/kaltura/web/ /opt/kaltura/web
 	rm -rf /tmp/opt/kaltura/web
-
+	touch /tmp/opt/kaltura/web_done.ans
+	echo "done configurating nfs" >> /tmp/opt/kaltura/web_done.ans
 	if [ $# -eq 0 ]; then
 		/opt/kaltura/bin/kaltura-front-config.sh /root/install/default.config.ans
 	else
