@@ -3,8 +3,7 @@ Run Command:
     Note: --link @FE 1 container Name@  … --link @FE n container Name@ all containers names
 •	docker run -d --link @FE 1 container Name@  … --link @FE n container Name@ --name=docker-lb -h docker-host -p 80:80 -p 443:443 -p 1935:1935 @image name@
 
-    example: docker run -d --link fefirstnode --link fesecondnode  --name=docker-lb -h docker-host -p 80:80 -p 443:443 -p 1935:1935 roiebeck/load-balancer-nginx:version1
-
+    example: docker run -d --link fefirstnode --link fesecondnode  --name=docker-lb -h docker-host -p 80:80 -p 443:443 -p 1935:1935 roiebeck/server-cluster-container-install-nginx_load_balancer
 
 
 ### Note:

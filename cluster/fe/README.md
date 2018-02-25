@@ -2,7 +2,7 @@
 ## Run Command:
 •   docker run --name @name @ -h @host name@ -d  --link @MySQL container name @ --link @sphinx container name@ --link @NFS container name@ --privileged @Image name@
     
-    Example: docker run --name fefirstnode -h first-front-host  -d  --link mysql --link sphinx1 --link kaltura-nfs  --privileged roiebeck/kaltura-fe:version3
+    Example:  docker run --name fefirstnode -h first-front-host  -d  --link mysql --link sphinx --link kaltura-nfs  --privileged roiebeck/server-cluster-container-install-front-end-first-node
 
 ## Execute Command:
 •	docker exec -it @container name@ /root/install/fe_settings.sh
