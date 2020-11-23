@@ -21,6 +21,9 @@ RUN yum install -y  ntp postfix && \
  service postfix start && \
  service ntpd start 
 
+## EPEL Repo ( libvdpau and libopenjp2 needed for building Kaltura-ffmpeg to be able to build dockerfile)
+RUN yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-6.noarch.rpm
+
 ##
 ## Kaltura
 ##
