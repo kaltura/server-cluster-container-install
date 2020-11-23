@@ -34,13 +34,13 @@ fi
 ##  if no  db.ans file exist then full install else only partial install
 ##
 if ! [ -e /root/install/db.ans ]; then
-	echo "installing /opt/kaltura/bin/kaltura-db-config.sh" $DB1_HOST $SUPER_USER $SUPER_USER_PASSWD $DB1_PORT $SPHINX_HOST
-	/opt/kaltura/bin/kaltura-db-config.sh $DB1_HOST $SUPER_USER $SUPER_USER_PASSWD $DB1_PORT $SPHINX_HOST
+	echo "installing /opt/kaltura/bin/kaltura-db-config.sh" $DB1_HOST $SPHINX_DB_HOST $SUPER_USER $SUPER_USER_PASSWD $DB1_PORT
+	/opt/kaltura/bin/kaltura-db-config.sh $DB1_HOST $SPHINX_DB_ HOST $SUPER_USER $SUPER_USER_PASSWD $DB1_PORT
 	touch /root/install/db.ans
 	echo "db installed" >> /root/install/db.ans
 else
-	echo "upgrading /opt/kaltura/bin/kaltura-db-config.sh" $DB1_HOST $SUPER_USER $SUPER_USER_PASSWD $DB1_PORT $SPHINX_HOST
-	/opt/kaltura/bin/kaltura-db-config.sh $DB1_HOST $SUPER_USER $SUPER_USER_PASSWD $DB1_PORT upgrade
+	echo "upgrading /opt/kaltura/bin/kaltura-db-config.sh" $DB1_HOST $SPHINX_DB_HOST $SUPER_USER $SUPER_USER_PASSWD $DB1_PORT
+	/opt/kaltura/bin/kaltura-db-config.sh $DB1_HOST $SPHINX_DB_HOST $SUPER_USER $SUPER_USER_PASSWD $DB1_PORT upgrade
 	echo "db upgraded" >> /root/install/db.ans
 fi
 
