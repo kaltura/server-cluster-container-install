@@ -9,10 +9,14 @@
 
 	example: docker exec -it fefirstnode /root/install/fe_settings.sh
 
+## Prevent npm forever lib error when executing fe_db_settings.sh:
+	TO fix error "generating ui configs, need to install npm forever": docker exec -it fefirstnode npm install forever -g
+
 ## Execute Command:
 docker exec -it @container name@ /root/install/fe_db_settings.sh
 
 	example: docker exec -it fefirstnode /root/install/fe_db_settings.sh
+	
 
 #Important!!!  Stop and start the container 
    if you stop and start the container you will have to enter the FE container and add to the end of 
