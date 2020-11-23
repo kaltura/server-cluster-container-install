@@ -23,6 +23,13 @@ RUN yum install -y memcached ntp postfix && \
  service postfix start && \
  service ntpd start 
 
+######### Need to add theese repos for misses librairies in order to build succesfully ################
+## EPEL Repo
+RUN yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-6.noarch.rpm
+## REMI REPO
+RUN yum install -y https://rpms.remirepo.net/enterprise/remi-release-6.rpm
+#######################################################################################################
+
 ##
 ## Kaltura
 ##
