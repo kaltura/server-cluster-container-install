@@ -4,7 +4,10 @@
 FROM centos:6
 
 RUN echo "NETWORKING=yes" > /etc/sysconfig/network
-
+### update centos 6 repo because centos 6 is EOL (End of life)
+RUN curl https://www.getpagespeed.com/files/centos6-eol.repo --output /etc/yum.repos.d/CentOS-Base.repo
+### Install Epel Repo for kaltura-ffmpeg dependencies
+RUN yum install -y epel-release
 ##
 ## copy configuration of my.cnf
 ##
